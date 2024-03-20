@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #F2EAE3;
+}
+#box{
+    margin-top: 230px;
+    margin-left: 600px;
+    display: flex;
+    background-color: #FFFFFF;
+    height: 450px;
+    width: 570px;
+    border-radius: 15px;
+}
+#precos{
+    display: flex;
+    gap: 10px;
+}
+#least{
+    padding: 0.42rem;
+}
+#button{
+    display: flex;
+    gap: 5px;
+    background-color: #458068;
+    width: 210px;
+    height: 40px;
+    border-radius: 7px;
+}
+#button img{
+    padding-left: 4rem;
+    padding-top: 12px;
+    height: 15px;
+    width: 15px;
+}
+#addCarro {
+    padding-top: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding-top: 4px;
+    font-size: 12px;
+}
+#Perfume {
+    height: 450px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    color: rgb(109, 107, 107);
+    font-weight: 500;
+}
+#textos{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 25px;
+    width: 200px;
+    }
+#a{
+    font-family: "Montserrat", sans-serif;
+    font-size: small;
+    font-weight: 100;
+    color: lightslategray;
+}
+#b{
+    font-size: 28px;
+    font-family: "Fraunces", serif;
+    font-weight: 900;
+}
+#c{
+    font-family: "Gravitas One", serif;
+    font-size: 20px;
+    color: #4E7A68;
+}
+#d{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    color: rgb(109, 107, 107);
+    
+}
